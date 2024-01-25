@@ -1,3 +1,3 @@
 # Hello, World!
 
-The program "Hello, World!" in different computer languages.
+Here you can find the source code of the famous program "Hello, World!" in different programming languages.
